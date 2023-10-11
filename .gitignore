@@ -1,3 +1,6 @@
+# platformio local repo
+.pio/
+
 # Prerequisites
 *.d
 
